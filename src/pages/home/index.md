@@ -3,7 +3,7 @@ templateKey: home-page
 headerImage:
   image: /img/television.png
   imageAlt: BestFit App
-title: Meet other JavaScript Developers in Wakanda
+title: BestFit Website
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
