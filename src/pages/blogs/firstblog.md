@@ -18,5 +18,8 @@ blocks:
         _****_
 
         _**Transghama**_
+  - component: PageImage
+    props:
+      image: /img/gallery3.jpg
 ---
 
