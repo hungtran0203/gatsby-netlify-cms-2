@@ -8,6 +8,6 @@ blocks:
       text: Test
   - component: BodyText
     props:
-      text: This is test body text
+      text: This is a good question for any one
 ---
 
