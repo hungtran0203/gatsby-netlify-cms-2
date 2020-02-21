@@ -8,6 +8,15 @@ blocks:
       text: Test
   - component: BodyText
     props:
-      text: This is a good question for any one
+      text: |-
+        **This is a good question for any one**
+
+        _**dasdsasd**_
+
+        _**Okassdm**_
+
+        _****_
+
+        _**Transghama**_
 ---
 
