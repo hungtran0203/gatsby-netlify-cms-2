@@ -6,5 +6,8 @@ blocks:
   - component: PageHeader
     props:
       text: Test
+  - component: BodyText
+    props:
+      text: This is test body text
 ---
 
