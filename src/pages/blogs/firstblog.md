@@ -11,13 +11,15 @@ blocks:
       text: |-
         **This is a good question for any one**
 
-        _**dasdsasd**_
+        **_dasdsasd_**
 
-        _**Okassdm**_
+        **_Okassdm_**
 
-        _****_
+        _\*\*\*\*_
 
-        _**Transghama**_
+        **_Transghama_**
+
+        ![](/img/gallery3.jpg)
   - component: PageImage
     props:
       image: /img/gallery3.jpg
